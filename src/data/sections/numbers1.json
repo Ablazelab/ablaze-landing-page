@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "txt": "Clients",
+    "value": "24"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "Completed Projects",
+    "value": "30"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-cloud-download",
+    "txt": "Founded Companies",
+    "value": "12"
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-medal",
+    "txt": "Published Researches",
+    "value": "2"
+  }
+]

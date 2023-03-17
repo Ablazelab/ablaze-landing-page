@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image1": "/img/intro/1.jpg",
+  "image2": "/img/intro/3.jpg",
+  "image3": "/img/intro/2.jpg",
+  "smallTitle": "About Us",
+  "title": { "first": "Our identity encompasses more", "second": "than a tech company." },
+  "content": "We are Ablaze! The ultimate venture studio, transforming ideas to reality. A research & development center, fiddling into the untapped. And a technology partner for your business. Our team of dedicated professionals are committed to delivering world-class solutions so that you can take advantage of breakthrough technologies.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Software", "second": "Engineering" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Blockchain", "second": "" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "medal",
+      "name": { "first": "Machine", "second": "Learning" },
+      "wowDelay": ".8s"
+    }
+  ]
+}

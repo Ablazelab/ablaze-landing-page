@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/01.jpg",
+    "name": "Robel Mesfin",
+    "title": "CEO"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/02.jpg",
+    "name": "Dawit Hagos",
+    "title": "CTO"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/03.jpg",
+    "name": "Abenezer Ermiyas",
+    "title": ""
+  },
+  {
+    "id": 4,
+    "image": "/img/team/4.jpg",
+    "name": "",
+    "title": ""
+  },
+  {
+    "id": 5,
+    "image": "/img/team/5.jpg",
+    "name": "",
+    "title": ""
+  },
+  {
+    "id": 6,
+    "image": "/img/team/6.jpg",
+    "name": "",
+    "title": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Ablaze Technologies",
+    "icon": "pe-7s-gleam",
+    "content": "Place for designing, developing and maintaining software solutions for businesses of all sizes."
+  },
+  {
+    "id": 2,
+    "title": "Ablaze Labs",
+    "icon": "pe-7s-phone",
+    "content": "Our venture studio where we transform unique ideas into strong independent companies."
+  },
+  {
+    "id": 3,
+    "title": "Sandbox",
+    "icon": "pe-7s-magic-wand",
+    "content": "Our research and development center."
+  }
+]
