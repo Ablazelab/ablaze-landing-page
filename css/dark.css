@@ -4596,7 +4596,7 @@ header.simpl .caption .btn-curve {
   bottom: -120px;
   right: 0;
   width: 80%;
-  background: #1a1e25;
+  /* background: #1a1e25; */
   z-index: -1;
 }
 .team .item {
@@ -4643,12 +4643,13 @@ header.simpl .caption .btn-curve {
 }
 .team .item:hover .info h5,
 .team .item:hover .info span {
-  opacity: 0;
+  opacity: 25%;
 }
+/*
 .team .item:hover .info .social {
   bottom: 0;
   opacity: 1;
-}
+} */
 .team .navs .prev,
 .team .navs .next {
   color: #ccc;
